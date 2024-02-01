@@ -1,4 +1,4 @@
-# habitify ,  Your Daily Habit Tracker
+# Habitify ,  Your Daily Habit Tracker
 
 • This application uses Node.js and Express for the responsive front-end, providing an
 intuitive user interface for habit tracking and management. 
